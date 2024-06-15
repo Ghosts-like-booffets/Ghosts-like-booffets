@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Ghosts-like-booffets, or Alex
+- 👀 Currently building my skills as a software engineer and game developer
+- 🌱 I’m currently learning to protype and develop my own concepts independetly.
+- 💞️ I’m looking to collaborate on action and systems focused games, particularly
+- as a Systems Engineer or Gameplay Programmer
+- 📫 How to reach me alsotocoding@gmail.com
+- 😄 Pronouns: He/They/Him/Them
